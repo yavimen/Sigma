@@ -1,0 +1,13 @@
+C:\Users\ВЛАСНИК ПК\source\repos\SigmaTasks\SigmaTasks\bin\Debug\netcoreapp3.1\SigmaTasks.exe
+C:\Users\ВЛАСНИК ПК\source\repos\SigmaTasks\SigmaTasks\bin\Debug\netcoreapp3.1\SigmaTasks.deps.json
+C:\Users\ВЛАСНИК ПК\source\repos\SigmaTasks\SigmaTasks\bin\Debug\netcoreapp3.1\SigmaTasks.runtimeconfig.json
+C:\Users\ВЛАСНИК ПК\source\repos\SigmaTasks\SigmaTasks\bin\Debug\netcoreapp3.1\SigmaTasks.runtimeconfig.dev.json
+C:\Users\ВЛАСНИК ПК\source\repos\SigmaTasks\SigmaTasks\bin\Debug\netcoreapp3.1\SigmaTasks.dll
+C:\Users\ВЛАСНИК ПК\source\repos\SigmaTasks\SigmaTasks\bin\Debug\netcoreapp3.1\SigmaTasks.pdb
+C:\Users\ВЛАСНИК ПК\source\repos\SigmaTasks\SigmaTasks\obj\Debug\netcoreapp3.1\SigmaTasks.csprojAssemblyReference.cache
+C:\Users\ВЛАСНИК ПК\source\repos\SigmaTasks\SigmaTasks\obj\Debug\netcoreapp3.1\SigmaTasks.AssemblyInfoInputs.cache
+C:\Users\ВЛАСНИК ПК\source\repos\SigmaTasks\SigmaTasks\obj\Debug\netcoreapp3.1\SigmaTasks.AssemblyInfo.cs
+C:\Users\ВЛАСНИК ПК\source\repos\SigmaTasks\SigmaTasks\obj\Debug\netcoreapp3.1\SigmaTasks.csproj.CoreCompileInputs.cache
+C:\Users\ВЛАСНИК ПК\source\repos\SigmaTasks\SigmaTasks\obj\Debug\netcoreapp3.1\SigmaTasks.dll
+C:\Users\ВЛАСНИК ПК\source\repos\SigmaTasks\SigmaTasks\obj\Debug\netcoreapp3.1\SigmaTasks.pdb
+C:\Users\ВЛАСНИК ПК\source\repos\SigmaTasks\SigmaTasks\obj\Debug\netcoreapp3.1\SigmaTasks.genruntimeconfig.cache
