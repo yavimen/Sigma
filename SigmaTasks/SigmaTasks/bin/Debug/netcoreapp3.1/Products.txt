@@ -1,0 +1,4 @@
+Meat Pr1 11 11 60 11.05.2021 FirstSort Veal
+Dairy_Product Pr2 21 22 14 22.07.2021
+Product Pr3 31 32 100 23.11.2020
+Meat Pr4 44 44 60 11.06.2021 SecondSort Pork
