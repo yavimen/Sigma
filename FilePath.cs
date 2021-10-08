@@ -32,7 +32,7 @@ namespace StartingCSharp
         public string GetRootFolderName() 
         {
             string[] temp = path.Split('\\', ' ', StringSplitOptions.RemoveEmptyEntries);
-            return temp[1];
+            return temp[temp.Length - 2];
         }
     }
 }
