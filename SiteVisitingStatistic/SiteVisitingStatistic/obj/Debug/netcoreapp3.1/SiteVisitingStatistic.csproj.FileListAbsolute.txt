@@ -1,0 +1,13 @@
+C:\Users\ВЛАСНИК ПК\source\repos\SiteVisitingStatistic\SiteVisitingStatistic\bin\Debug\netcoreapp3.1\SiteVisitingStatistic.exe
+C:\Users\ВЛАСНИК ПК\source\repos\SiteVisitingStatistic\SiteVisitingStatistic\bin\Debug\netcoreapp3.1\SiteVisitingStatistic.deps.json
+C:\Users\ВЛАСНИК ПК\source\repos\SiteVisitingStatistic\SiteVisitingStatistic\bin\Debug\netcoreapp3.1\SiteVisitingStatistic.runtimeconfig.json
+C:\Users\ВЛАСНИК ПК\source\repos\SiteVisitingStatistic\SiteVisitingStatistic\bin\Debug\netcoreapp3.1\SiteVisitingStatistic.runtimeconfig.dev.json
+C:\Users\ВЛАСНИК ПК\source\repos\SiteVisitingStatistic\SiteVisitingStatistic\bin\Debug\netcoreapp3.1\SiteVisitingStatistic.dll
+C:\Users\ВЛАСНИК ПК\source\repos\SiteVisitingStatistic\SiteVisitingStatistic\bin\Debug\netcoreapp3.1\SiteVisitingStatistic.pdb
+C:\Users\ВЛАСНИК ПК\source\repos\SiteVisitingStatistic\SiteVisitingStatistic\obj\Debug\netcoreapp3.1\SiteVisitingStatistic.csprojAssemblyReference.cache
+C:\Users\ВЛАСНИК ПК\source\repos\SiteVisitingStatistic\SiteVisitingStatistic\obj\Debug\netcoreapp3.1\SiteVisitingStatistic.AssemblyInfoInputs.cache
+C:\Users\ВЛАСНИК ПК\source\repos\SiteVisitingStatistic\SiteVisitingStatistic\obj\Debug\netcoreapp3.1\SiteVisitingStatistic.AssemblyInfo.cs
+C:\Users\ВЛАСНИК ПК\source\repos\SiteVisitingStatistic\SiteVisitingStatistic\obj\Debug\netcoreapp3.1\SiteVisitingStatistic.csproj.CoreCompileInputs.cache
+C:\Users\ВЛАСНИК ПК\source\repos\SiteVisitingStatistic\SiteVisitingStatistic\obj\Debug\netcoreapp3.1\SiteVisitingStatistic.dll
+C:\Users\ВЛАСНИК ПК\source\repos\SiteVisitingStatistic\SiteVisitingStatistic\obj\Debug\netcoreapp3.1\SiteVisitingStatistic.pdb
+C:\Users\ВЛАСНИК ПК\source\repos\SiteVisitingStatistic\SiteVisitingStatistic\obj\Debug\netcoreapp3.1\SiteVisitingStatistic.genruntimeconfig.cache
