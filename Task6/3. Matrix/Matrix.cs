@@ -24,7 +24,7 @@ namespace MyMatrix
 
         public Matrix() => array2d = null;
 
-        public Matrix(double[,] matrix) => Array2D = matrix;
+        public Matrix(double[,] matrix) => array2d = matrix;
 
         IEnumerator IEnumerable.GetEnumerator()
         {
