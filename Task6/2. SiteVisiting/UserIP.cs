@@ -11,7 +11,7 @@ namespace SiteVisitingStatistic.Classes
         {
             get 
             {
-                return _ip;
+                 return (string)_ip.Clone();
             }
             set 
             {
