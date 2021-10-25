@@ -32,56 +32,36 @@ namespace Sigma
 
                 templines = line.Split('.');
 
-                if (templines.Length == 1){
-                    if (mustbeappended)
-                        buf += line;
+                if (mustbeappended)
+                {
+                    if (buf[buf.Length - 1] == ' ')
+                        buf += templines[0];
                     else
-                        buf = line;
-                    mustbeappended = true;
+                        buf += " " + templines[0];
+                    mustbeappended = false;
+
+                    _sentences.Add(buf);
+                    i = 1;
                 }
-                else{
-                    if (mustbeappended)
-                    {
-                        if(buf[buf.Length-1]==' ')
-                            buf +=templines[0];
-                        else
-                            buf +=" "+templines[0];
-                        mustbeappended = false;
 
-                        _sentences.Add(buf);
-
-                        if (templines[templines.Length - 1] == String.Empty)
-                            for (int i = 1; i < templines.Length - 1; i++)
-                            {
-                                _sentences.Add(templines[i]);
-                            }
-                        else
-                        {
-                            for (int i = 1; i < templines.Length - 1; i++)
-                            {
-                                _sentences.Add(templines[i]);
-                            }
-                            buf = templines[templines.Length - 1];
-                            mustbeappended = true;
-                        }
-                    }
-                    else{
-                        if (templines[templines.Length - 1] == String.Empty)
-                            for (int i = 0; i < templines.Length - 1; i++)
-                                _sentences.Add(templines[i]);
-                        else
-                        {
-                            for (int i = 0; i < templines.Length - 1; i++)
-                                _sentences.Add(templines[i]);
-
-                            buf = templines[templines.Length - 1];
-                            mustbeappended = true;
-                        }
-                    }
+                if (templines[templines.Length - 1] == String.Empty)
+                   for ( ; i < templines.Length - 1; i++)
+                   {
+                       _sentences.Add(templines[i]);
+                   }
+                else
+                {
+                   for ( ; i < templines.Length - 1; i++)
+                   {
+                       _sentences.Add(templines[i]);
+                   }
+                   buf = templines[templines.Length - 1];
+                   mustbeappended = true;
                 }
+                i = 0;                
             }
 
-            for (int i = 0; i < _sentences.Count; i++)
+            for (i = 0; i < _sentences.Count; i++)
             {
                 _sentences[i] += "."; 
             }
