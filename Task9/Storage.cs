@@ -1,4 +1,6 @@
-﻿using System;
+//У класах Product, Dairy_Products, Meat містяться свої події на спробу вводу некоректних даних, які не дозволяють цього зробити
+
+using System;
 using System.Collections.Generic;
 using StorageTask.Classes;
 using System.IO;
