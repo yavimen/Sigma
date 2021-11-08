@@ -1,6 +1,0 @@
-Girl Greeting number 1
-Girl Greeting number 2
-Girl Greeting number 3
-Girl Greeting number 4
-Girl Greeting number 5
-Girl Greeting number 6

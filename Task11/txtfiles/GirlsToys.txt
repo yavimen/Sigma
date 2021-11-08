@@ -1,4 +1,0 @@
-GirlsToy number 1
-GirlsToy number 2
-GirlsToy number 3
-GirlsToy number 4
