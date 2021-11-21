@@ -1,5 +1,0 @@
-Product prod1 1 8.25 14.11.2021 12 2
-Product prod2 5 11 14.11.2021 42 52
-Household_Goods household1 2 11 14.11.2021 22 3
-Household_Goods household2 3 5.5 14.11.2021 11 1
-Household_Goods household3 4 11 14.11.2021 13 5
